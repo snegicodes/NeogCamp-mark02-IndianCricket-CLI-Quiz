@@ -1,0 +1,22 @@
+{
+  "name": "neogcamp-mark02-indiancricket-cli-quiz",
+  "version": "1.0.0",
+  "description": "A simple CLI quiz to test your knowledge on Indian Cricket Team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snegicodes/NeogCamp-mark02-IndianCricket-CLI-Quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snegicodes/NeogCamp-mark02-IndianCricket-CLI-Quiz/issues"
+  },
+  "homepage": "https://github.com/snegicodes/NeogCamp-mark02-IndianCricket-CLI-Quiz#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
